@@ -1,0 +1,847 @@
+{
+    "infos": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5485304,
+            "lng": 135.5028167
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54986527989273,
+              "lng": 135.5041439798927
+            },
+            "southwest": {
+              "lat": 34.54716562010728,
+              "lng": 135.5014443201073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "花梨",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118362214214079737360\">牧島泰実</a>"
+            ],
+            "photo_reference": "AWU5eFioho0cIWt0WkxNLUVEgNE1-irUI8bJyxDhVL8ZqgQQCpw6L_tS_BYocyUSvd4yUFNywfCuBRPGJ6x6qOfTixo-JOc8I6w5CPBcv3sZzsz4T-8nihJh3EQmiMFFnUUZHTFsMU9BJXRGWa9QxU3vTVT4gxTRS9FrfalER9bmCrANU8tS",
+            "width": 3840
+          }
+        ],
+        "place_id": "ChIJwRsQ3bbbAGARX_jBCJ50_Rk",
+        "plus_code": {
+          "compound_code": "GGX3+C4 堺市、大阪府",
+          "global_code": "8Q6QGGX3+C4"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJwRsQ3bbbAGARX_jBCJ50_Rk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 229,
+        "vicinity": "堺市北区百舌鳥梅町３丁34−８"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5483995,
+            "lng": 135.5035564
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54969857989272,
+              "lng": 135.5049158298927
+            },
+            "southwest": {
+              "lat": 34.54699892010728,
+              "lng": 135.5022161701073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "カフェ&ダイニング ベル",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112620301333902967568\">A Google User</a>"
+            ],
+            "photo_reference": "AWU5eFjDeIcr3fxkbCtyCnVMsCohj8jBUeXh78mIpWO6BPSboZLIGq2M6ajh861SX9DZ9q2AVzq5K_RHSVSwaVo46LqCFXCjia2Hn0R3t88cTkBP9gzqNp-GVvlLuXE2TBc8SJ37MG28RGlUjAzpgW2hYxIaD4kphUXp-7VAHA43H9CkK80w",
+            "width": 1620
+          }
+        ],
+        "place_id": "ChIJH-LQ8rbbAGARrdAYuf8MlhQ",
+        "plus_code": {
+          "compound_code": "GGX3+9C 堺市、大阪府",
+          "global_code": "8Q6QGGX3+9C"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJH-LQ8rbbAGARrdAYuf8MlhQ",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 126,
+        "vicinity": "堺市北区百舌鳥梅町３丁３５−４"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5482871,
+            "lng": 135.5105766
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54959607989272,
+              "lng": 135.5119261298927
+            },
+            "southwest": {
+              "lat": 34.54689642010728,
+              "lng": 135.5092264701073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "かいゆう亭",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107115278727678548446\">higashizawa nariaki</a>"
+            ],
+            "photo_reference": "AWU5eFhMVnGOefoB2dcZyUJQf4aOnBw4aT-IenRHVAtpGH27oMdy-f3XnCOqkQDoZSKXGGUacK4GQHTb8aP7FVYLvHzYu3OzWMyJmh0TdI-DUaUJqDB9LY5PPOtiMzC4x-1zqoQYVENksk4LVjcix49tBW2KdmXQtbeUbWhPqmASnN0MQEa9",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJxTbBgsvbAGARV4JgCINApLM",
+        "plus_code": {
+          "compound_code": "GGX6+86 堺市、大阪府",
+          "global_code": "8Q6QGGX6+86"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJxTbBgsvbAGARV4JgCINApLM",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 24,
+        "vicinity": "堺市東区白鷺町１丁６−１１ 石川文化住宅"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5478152,
+            "lng": 135.5096352
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54918957989273,
+              "lng": 135.5109949298927
+            },
+            "southwest": {
+              "lat": 34.54648992010728,
+              "lng": 135.5082952701073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "彩葉",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 400,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108000748152034574886\">A Google User</a>"
+            ],
+            "photo_reference": "AWU5eFiCj2fMXJ-OYiMwj7XsgCl1J_nWcqR3dufPtKE4trkNvSwI-uEdyEfaX0v2B7Q6D2vf4xR5ZYhiS_rPawdxA-KYd3EFoonsn4udwtm9bUwpyfgJ54Ydwk3ofviOHl9Um5uk7Cxh34qnob9SDVjG3f5m3YV-ElLk2IvdgB6t3yaj35sf",
+            "width": 600
+          }
+        ],
+        "place_id": "ChIJWfVkd8jbAGARYyuxfKX-u54",
+        "plus_code": {
+          "compound_code": "GGX5+4V 堺市、大阪府",
+          "global_code": "8Q6QGGX5+4V"
+        },
+        "rating": 5,
+        "reference": "ChIJWfVkd8jbAGARYyuxfKX-u54",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "堺市中区新家町３５０−７"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5461641,
+            "lng": 135.5046525
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54758537989272,
+              "lng": 135.5060945798927
+            },
+            "southwest": {
+              "lat": 34.54488572010727,
+              "lng": 135.5033949201073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "フダイニング",
+        "place_id": "ChIJVWb0htTbAGARZxCjxOHl1WY",
+        "plus_code": {
+          "compound_code": "GGW3+GX 堺市、大阪府",
+          "global_code": "8Q6QGGW3+GX"
+        },
+        "rating": 2.2,
+        "reference": "ChIJVWb0htTbAGARZxCjxOHl1WY",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "堺市中区学園町１ B12棟 (学生会館)"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5500238,
+            "lng": 135.5130368
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.55137777989271,
+              "lng": 135.5143934798927
+            },
+            "southwest": {
+              "lat": 34.54867812010727,
+              "lng": 135.5116938201073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "あんぽるたん",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 953,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117090871896361746962\">A Google User</a>"
+            ],
+            "photo_reference": "AWU5eFhiDu585RSftTG2SqMejU6I8cvQFCyGQFryQh_essDcHhoQKzSs7vkF7LRxOB3iochsJHqYGmvYw_64t_8du3vdAgDiPzt9s9M7TkhTLhEx7jfpPmmNIgT3q2ir0NEVmcY5lR-aucdmbMTOkBqQc-yOa1GDf1nJb1D-YU0eX0OufgZQ",
+            "width": 1086
+          }
+        ],
+        "place_id": "ChIJCUsyTszbAGARtoQgXyZZUB8",
+        "plus_code": {
+          "compound_code": "GGX7+X5 堺市、大阪府",
+          "global_code": "8Q6QGGX7+X5"
+        },
+        "rating": 4.1,
+        "reference": "ChIJCUsyTszbAGARtoQgXyZZUB8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 37,
+        "vicinity": "堺市東区白鷺町１丁２−８"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5478213,
+            "lng": 135.5101893
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54920572989272,
+              "lng": 135.5115068798927
+            },
+            "southwest": {
+              "lat": 34.54650607010728,
+              "lng": 135.5088072201072
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "くえろくえら",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3464,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107500547826632260052\">田中大介</a>"
+            ],
+            "photo_reference": "AWU5eFgIh_J5g-7rj1l8JWo77Yl9sqweixa1e7MDsysRn6WI2noi9qYEgWSAfg6-ti0HNkerG6wCR6FFaqEJP-KmIcudjEmnU-CJbe8lFyIqXIGyTIXbxtdjjPxdWQWwNAkI5cxEDALqehUuuxAVwVLqkbt3CHtvL_zrgy2n7Yy6PcxQnxLa",
+            "width": 4618
+          }
+        ],
+        "place_id": "ChIJXSNFccvbAGARnk30vnvddZ0",
+        "plus_code": {
+          "compound_code": "GGX6+43 堺市、大阪府",
+          "global_code": "8Q6QGGX6+43"
+        },
+        "rating": 4.5,
+        "reference": "ChIJXSNFccvbAGARnk30vnvddZ0",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 86,
+        "vicinity": "堺市東区白鷺町１丁１２−２８"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5471849,
+            "lng": 135.5096145
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54851542989272,
+              "lng": 135.5109254798927
+            },
+            "southwest": {
+              "lat": 34.54581577010727,
+              "lng": 135.5082258201073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "シャンハイ麻婆麺 鍵 大阪公立大学前店",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101028084858188502737\">yamakens</a>"
+            ],
+            "photo_reference": "AWU5eFhhwYo9CRld0YgRFxjVea8k26H6d1rvtjM7Ioee-NDHe1ChiDw11V23i1bRFTB1Fvrj0GH4aGo3MGbTZBza56fFxpgEA5rPIu9dQ4OLO6s1n6xbjLF_4yDdG-0bdxPROtERyXt6RYyRCkG2W1ANwsD4YnMfYdslDqIea2nfhYOo9Q2g",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJBW-3x63bAGARtUKeF2YTPm0",
+        "plus_code": {
+          "compound_code": "GGW5+VR 堺市、大阪府",
+          "global_code": "8Q6QGGW5+VR"
+        },
+        "rating": 3.5,
+        "reference": "ChIJBW-3x63bAGARtUKeF2YTPm0",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 12,
+        "vicinity": "堺市中区新家町３４６−１０"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5476706,
+            "lng": 135.5091641
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54899467989272,
+              "lng": 135.5104775298927
+            },
+            "southwest": {
+              "lat": 34.54629502010728,
+              "lng": 135.5077778701073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "スターカレーハウス （STAR CURRY HOUSE）",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103754400984194785924\">大森学</a>"
+            ],
+            "photo_reference": "AWU5eFimnQPBWRNS38SIG2OZEuaZH31nTwuKboDArfsWJDmobOsoW91uN8_ikgAzsT3brz2zul_5tJwaOT4FJx2REjVwpSOYK4i7VwPmeColJAykD9_nI3mlUqu7n8J0dIJPNuOT6UreHy4NSohRQj2utwzzAx6RFhTzbAgh4zQ1bChWnqum",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJmdZBF2fbAGAR36k3vB9OM0A",
+        "plus_code": {
+          "compound_code": "GGX5+3M 堺市、大阪府",
+          "global_code": "8Q6QGGX5+3M"
+        },
+        "rating": 4.6,
+        "reference": "ChIJmdZBF2fbAGAR36k3vB9OM0A",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 23,
+        "vicinity": "堺市東区白鷺町１丁１０−６"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5481262,
+            "lng": 135.5107256
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54952092989272,
+              "lng": 135.5120432798927
+            },
+            "southwest": {
+              "lat": 34.54682127010728,
+              "lng": 135.5093436201073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "グリルトミー なかもず店",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111853886264661847464\">Shinya Izumi</a>"
+            ],
+            "photo_reference": "AWU5eFhUdD8hm0drrZgsLxNuTkCAcsbGT4OkVD-FZvQr5fvBbMKTVehGWzgEzxIafOOUeTaO3qNoT0g3wUI60a-cY5mnE_hjz7Nkz02rh6UkjEM5jVIlSen-9d7_xl9c-lfkjy9Fv5a9Mrr8DzPE-qHIpdDaXqoX8ekNwMAyz67IHoASqmsF",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJt2D6Hn7bAGARiYENkveaqnc",
+        "plus_code": {
+          "compound_code": "GGX6+77 堺市、大阪府",
+          "global_code": "8Q6QGGX6+77"
+        },
+        "rating": 4.3,
+        "reference": "ChIJt2D6Hn7bAGARiYENkveaqnc",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 43,
+        "vicinity": "堺市東区白鷺町１丁目１６−１５ 第２白鷺マンション"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5483001,
+            "lng": 135.5105973
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54963567989272,
+              "lng": 135.5119528798927
+            },
+            "southwest": {
+              "lat": 34.54693602010727,
+              "lng": 135.5092532201073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "ピクトン(Pizzeria Picton)",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109508572655129035606\">千葉翔太</a>"
+            ],
+            "photo_reference": "AWU5eFi0rAiZPGfqoLVsZhHI6FVapjkNm1S8OG7Qce0PnEfv-fqxoM6VHjGlYivMfm9SDvfHiV92qzsO7Rpldj-oso9BLlejtbRMvq-2ssOg-s2JARTQkRxDwLy64SEYvjYy8q8w0VvNxZAJwI_GfJ91KqwAy-CfJdII1mC9KqNfGUFXpp-b",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJ8TvMgsvbAGARwiEsfEmqWSU",
+        "plus_code": {
+          "compound_code": "GGX6+86 堺市、大阪府",
+          "global_code": "8Q6QGGX6+86"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ8TvMgsvbAGARwiEsfEmqWSU",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 80,
+        "vicinity": "堺市東区白鷺町１丁６−１１ 石川文化住宅"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5506111,
+            "lng": 135.5053875
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.55196567989272,
+              "lng": 135.5067315798927
+            },
+            "southwest": {
+              "lat": 34.54926602010728,
+              "lng": 135.5040319201073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "河豚乃家",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3464,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114955627562503372795\">大石英昭</a>"
+            ],
+            "photo_reference": "AWU5eFjHxC5WOkR_BqbziB5Ndc-BSCEkdYHbIN69GaRajommJdTyRoheZ8vyPEVdHnMxUbIWynQ2fPFLbz-YinlOO1p5ZRJl9h1PLGuQY1RZowsTVgeMpquBbS8XP-qQxMoQ2m-7FAZeYrx-Xp_DKbltSuHb6sFnVdTskub5ItXQDbhsREAj",
+            "width": 4618
+          }
+        ],
+        "place_id": "ChIJP9-Ny7fbAGARNM5KEpdHl_E",
+        "plus_code": {
+          "compound_code": "HG24+65 堺市、大阪府",
+          "global_code": "8Q6QHG24+65"
+        },
+        "rating": 4.2,
+        "reference": "ChIJP9-Ny7fbAGARNM5KEpdHl_E",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 60,
+        "vicinity": "堺市北区百舌鳥梅町３丁１３−１"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5499367,
+            "lng": 135.5130605
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.55128417989272,
+              "lng": 135.5144630298927
+            },
+            "southwest": {
+              "lat": 34.54858452010728,
+              "lng": 135.5117633701073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "白鷺飯店",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116224281249242086247\">going2dance</a>"
+            ],
+            "photo_reference": "AWU5eFh_Ck9koeUthLsYdvW48arxmAWNAgV8E7RRZI6J8rhOC4pbSkaN1GKug7AVQGjkyokzSML-VPkM1uIj8PqVsYxb-plzrd_rvd9Loqr9xSKqKgNyq0Dci1X-Hb5NmsvO8beyPDHIKO5xaql4YByDz09Du73TYCHkh2XigRaq3m5EedjK",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ8YkOTRfbAGARsYiV1A03xJs",
+        "plus_code": {
+          "compound_code": "GGX7+X6 東区、大阪府堺市",
+          "global_code": "8Q6QGGX7+X6"
+        },
+        "rating": 3.8,
+        "reference": "ChIJ8YkOTRfbAGARsYiV1A03xJs",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 12,
+        "vicinity": "東区白鷺町１丁２−９ カイザ８ 1階"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.547002,
+            "lng": 135.5097878
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54832237989272,
+              "lng": 135.5110789798927
+            },
+            "southwest": {
+              "lat": 34.54562272010727,
+              "lng": 135.5083793201073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "PHO.310",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118174645820038717342\">A Google User</a>"
+            ],
+            "photo_reference": "AWU5eFiKwbukiQ0VQ9uLTUpr5GklzIMQgCAeBMq_QeWMmp1hkkm_Ay9TrZEKdBaetnJcVxkOSX3LHcvdhijodrSI7wGU4Uxg5IOwhFJIPbqQtui9YZhBvoQxHVBWB1T86NPR1uLpTf1lsVbObpCN-R9YWGR0wGkl7pmKLK1UzSnID2fUD8d-",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJGfIMX53bAGARSlBQa9ZrvqY",
+        "plus_code": {
+          "compound_code": "GGW5+RW 堺市、大阪府",
+          "global_code": "8Q6QGGW5+RW"
+        },
+        "rating": 4.6,
+        "reference": "ChIJGfIMX53bAGARSlBQa9ZrvqY",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 63,
+        "vicinity": "堺市中区新家町３４６−９ クルクル"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.53947280000001,
+            "lng": 135.5065385
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.54080582989272,
+              "lng": 135.5079084798927
+            },
+            "southwest": {
+              "lat": 34.53810617010727,
+              "lng": 135.5052088201072
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "しゃぶしゃぶみなみ",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111112868608637069916\">ふじたしょういち</a>"
+            ],
+            "photo_reference": "AWU5eFhGWQ-ciKBkys8JZfTVaL6FHL9OEgxLBnTbVsTo5VQzN2nDdk3pavIm0UiCTOBGKuYjqgbzogESfrgKzBFALXsO2vPI3x2JzPuZdFOay_1rCQmIUl9ssPKPBYhAzMPZSejkW9LS3XFWLZvgUbcF13dKhqkWs4lg_R7T7LTA8K3wOmAg",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJj5t7ATbaAGARJtaHa-I_OHo",
+        "plus_code": {
+          "compound_code": "GGQ4+QJ 堺市、大阪府",
+          "global_code": "8Q6QGGQ4+QJ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJj5t7ATbaAGARJtaHa-I_OHo",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "堺市中区土師町５丁８−２２"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 34.5511634,
+            "lng": 135.4995725
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 34.55250512989272,
+              "lng": 135.5009217298927
+            },
+            "southwest": {
+              "lat": 34.54980547010728,
+              "lng": 135.4982220701073
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "ステーキのどん 中百舌鳥店",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114642080986054659286\">A Google User</a>"
+            ],
+            "photo_reference": "AWU5eFj2h7WebTQ0cocXEdQS8NY9hx8s51M0rmk133xyuNrQtUuLAx0Qt4JCGt1zJbrQK6kF16B02mbfRPU1eDjTt5G_7A_SW5GR21Egz92hgKP2mvHYhaYxOGzeL0J7NlaCcVu61k76k44yso_qBufpRBt1D2APjOe-fCBc6zGm4mQedK_A",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJOy9eXrrbAGARfN8PxDkD0lI",
+        "plus_code": {
+          "compound_code": "HF2X+FR 堺市、大阪府",
+          "global_code": "8Q6QHF2X+FR"
+        },
+        "price_level": 2,
+        "rating": 3.5,
+        "reference": "ChIJOy9eXrrbAGARfN8PxDkD0lI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 517,
+        "vicinity": "堺市北区百舌鳥梅町３丁４６−１"
+      }
+    ],
+    "photos": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFioho0cIWt0WkxNLUVEgNE1-irUI8bJyxDhVL8ZqgQQCpw6L_tS_BYocyUSvd4yUFNywfCuBRPGJ6x6qOfTixo-JOc8I6w5CPBcv3sZzsz4T-8nihJh3EQmiMFFnUUZHTFsMU9BJXRGWa9QxU3vTVT4gxTRS9FrfalER9bmCrANU8tS&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjDeIcr3fxkbCtyCnVMsCohj8jBUeXh78mIpWO6BPSboZLIGq2M6ajh861SX9DZ9q2AVzq5K_RHSVSwaVo46LqCFXCjia2Hn0R3t88cTkBP9gzqNp-GVvlLuXE2TBc8SJ37MG28RGlUjAzpgW2hYxIaD4kphUXp-7VAHA43H9CkK80w&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhMVnGOefoB2dcZyUJQf4aOnBw4aT-IenRHVAtpGH27oMdy-f3XnCOqkQDoZSKXGGUacK4GQHTb8aP7FVYLvHzYu3OzWMyJmh0TdI-DUaUJqDB9LY5PPOtiMzC4x-1zqoQYVENksk4LVjcix49tBW2KdmXQtbeUbWhPqmASnN0MQEa9&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFiCj2fMXJ-OYiMwj7XsgCl1J_nWcqR3dufPtKE4trkNvSwI-uEdyEfaX0v2B7Q6D2vf4xR5ZYhiS_rPawdxA-KYd3EFoonsn4udwtm9bUwpyfgJ54Ydwk3ofviOHl9Um5uk7Cxh34qnob9SDVjG3f5m3YV-ElLk2IvdgB6t3yaj35sf&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "no image",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhiDu585RSftTG2SqMejU6I8cvQFCyGQFryQh_essDcHhoQKzSs7vkF7LRxOB3iochsJHqYGmvYw_64t_8du3vdAgDiPzt9s9M7TkhTLhEx7jfpPmmNIgT3q2ir0NEVmcY5lR-aucdmbMTOkBqQc-yOa1GDf1nJb1D-YU0eX0OufgZQ&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFgIh_J5g-7rj1l8JWo77Yl9sqweixa1e7MDsysRn6WI2noi9qYEgWSAfg6-ti0HNkerG6wCR6FFaqEJP-KmIcudjEmnU-CJbe8lFyIqXIGyTIXbxtdjjPxdWQWwNAkI5cxEDALqehUuuxAVwVLqkbt3CHtvL_zrgy2n7Yy6PcxQnxLa&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhhwYo9CRld0YgRFxjVea8k26H6d1rvtjM7Ioee-NDHe1ChiDw11V23i1bRFTB1Fvrj0GH4aGo3MGbTZBza56fFxpgEA5rPIu9dQ4OLO6s1n6xbjLF_4yDdG-0bdxPROtERyXt6RYyRCkG2W1ANwsD4YnMfYdslDqIea2nfhYOo9Q2g&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFimnQPBWRNS38SIG2OZEuaZH31nTwuKboDArfsWJDmobOsoW91uN8_ikgAzsT3brz2zul_5tJwaOT4FJx2REjVwpSOYK4i7VwPmeColJAykD9_nI3mlUqu7n8J0dIJPNuOT6UreHy4NSohRQj2utwzzAx6RFhTzbAgh4zQ1bChWnqum&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhUdD8hm0drrZgsLxNuTkCAcsbGT4OkVD-FZvQr5fvBbMKTVehGWzgEzxIafOOUeTaO3qNoT0g3wUI60a-cY5mnE_hjz7Nkz02rh6UkjEM5jVIlSen-9d7_xl9c-lfkjy9Fv5a9Mrr8DzPE-qHIpdDaXqoX8ekNwMAyz67IHoASqmsF&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFi0rAiZPGfqoLVsZhHI6FVapjkNm1S8OG7Qce0PnEfv-fqxoM6VHjGlYivMfm9SDvfHiV92qzsO7Rpldj-oso9BLlejtbRMvq-2ssOg-s2JARTQkRxDwLy64SEYvjYy8q8w0VvNxZAJwI_GfJ91KqwAy-CfJdII1mC9KqNfGUFXpp-b&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFjHxC5WOkR_BqbziB5Ndc-BSCEkdYHbIN69GaRajommJdTyRoheZ8vyPEVdHnMxUbIWynQ2fPFLbz-YinlOO1p5ZRJl9h1PLGuQY1RZowsTVgeMpquBbS8XP-qQxMoQ2m-7FAZeYrx-Xp_DKbltSuHb6sFnVdTskub5ItXQDbhsREAj&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFh_Ck9koeUthLsYdvW48arxmAWNAgV8E7RRZI6J8rhOC4pbSkaN1GKug7AVQGjkyokzSML-VPkM1uIj8PqVsYxb-plzrd_rvd9Loqr9xSKqKgNyq0Dci1X-Hb5NmsvO8beyPDHIKO5xaql4YByDz09Du73TYCHkh2XigRaq3m5EedjK&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFiKwbukiQ0VQ9uLTUpr5GklzIMQgCAeBMq_QeWMmp1hkkm_Ay9TrZEKdBaetnJcVxkOSX3LHcvdhijodrSI7wGU4Uxg5IOwhFJIPbqQtui9YZhBvoQxHVBWB1T86NPR1uLpTf1lsVbObpCN-R9YWGR0wGkl7pmKLK1UzSnID2fUD8d-&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFhGWQ-ciKBkys8JZfTVaL6FHL9OEgxLBnTbVsTo5VQzN2nDdk3pavIm0UiCTOBGKuYjqgbzogESfrgKzBFALXsO2vPI3x2JzPuZdFOay_1rCQmIUl9ssPKPBYhAzMPZSejkW9LS3XFWLZvgUbcF13dKhqkWs4lg_R7T7LTA8K3wOmAg&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AWU5eFj2h7WebTQ0cocXEdQS8NY9hx8s51M0rmk133xyuNrQtUuLAx0Qt4JCGt1zJbrQK6kF16B02mbfRPU1eDjTt5G_7A_SW5GR21Egz92hgKP2mvHYhaYxOGzeL0J7NlaCcVu61k76k44yso_qBufpRBt1D2APjOe-fCBc6zGm4mQedK_A&key=AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI"
+    ]
+  }

@@ -7,10 +7,10 @@ import googlemaps
 import pprint
 
 #Google Sheets Authentication
-Auth = "auth.json" # ここにjsonファイルのPathを入力する
+auth = "auth.json"
 scope = ['https://spreadsheets.google.com/feeds']
-credentials = ServiceAccountCredentials.from_json_keyfile_name(Auth, scope)
-Client = gspread.authorize(credentials)
+credentials = ServiceAccountCredentials.from_json_keyfile_name(auth, scope)
+client = gspread.authorize(credentials)
 
 #Google Map Authentication
 map_key = "AIzaSyBuB8FxDFCich3vPRNGuGEhgizio86bDjI"
@@ -32,10 +32,11 @@ def hello_world():
     print("Hello world")
     return [{"message": "Hello World"}, {"message": "Test"}]
 
+#bus api
 @app.get("/bus")
 def get_bus_time():
     #read
-    SpreadSheet = Client.open_by_key(master_data_sheet_key)
+    SpreadSheet = client.open_by_key(master_data_sheet_key)
     RawData = SpreadSheet.worksheet("bus_schedule")
     Data = pd.DataFrame(RawData.get_all_values())
     #process
@@ -48,6 +49,7 @@ def get_bus_time():
     print(res)
     return res
 
+#nakamozu food api
 @app.get("/mozu_food")
 def get_mozu_food():
     loc = {'lat': mozu_lat, 'lng': mozu_lng}
@@ -68,6 +70,7 @@ def get_mozu_food():
     
     return {'infos': results, 'photos' : photos}
 
+#sugimoto food api
 @app.get("/sugi_food")
 def get_sugi_food():
     loc = {'lat': sugi_lat, 'lng': sugi_lng}
